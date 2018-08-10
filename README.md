@@ -1,3 +1,9 @@
+# Unmaintained Repository
+
+Unmaintained repository. Development moved to: https://github.com/nordic-institute/X-Road-test-service
+
+X-Road Test Service is now actively developed by [Nordic Institute for Interoperability Solutions (NIIS)](https://www.niis.org/). The original X-Road Test Service codebase here will be kept for archive purposes.
+
 # X-Road Test Service
 
 X-Road Test Service is a testing tool for X-Road v6.4 and above. The implementation is based on [XRd4J](https://github.com/petkivim/xrd4j) library. 
